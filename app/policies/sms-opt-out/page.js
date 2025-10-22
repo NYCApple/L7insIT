@@ -1,0 +1,1 @@
+export const metadata={title:"Sms Opt Out — L7 insIT"};export default function Page(){return(<div className="py-16 prose">Paste your sms opt out policy text here (verbatim).</div>);}

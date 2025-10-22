@@ -1,0 +1,1 @@
+export const metadata={title:"Cookie — L7 insIT"};export default function Page(){return(<div className="py-16 prose">Paste your cookie policy text here (verbatim).</div>);}

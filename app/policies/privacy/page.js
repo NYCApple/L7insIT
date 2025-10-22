@@ -1,0 +1,1 @@
+export const metadata={title:"Privacy — L7 insIT"};export default function Page(){return(<div className="py-16 prose">Paste your privacy policy text here (verbatim).</div>);}

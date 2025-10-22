@@ -1,0 +1,1 @@
+export const metadata={title:"Contact — L7 insIT"};export default function Page(){return(<div className="py-16">Contact page — paste your script content here.</div>);}

@@ -1,0 +1,1 @@
+export default function SeoJsonLd(){const o={"@context":"https://schema.org","@type":"Organization",name:"L7 insIT",url:"https://www.l7insit.com",logo:"https://www.l7insit.com/logo.png"};return(<script type="application/ld+json" dangerouslySetInnerHTML={{__html:JSON.stringify(o)}}/>);}

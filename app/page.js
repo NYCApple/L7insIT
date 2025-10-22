@@ -1,0 +1,1 @@
+export default function Page(){return(<div className="py-16">Home — content coming from your script.</div>);}
